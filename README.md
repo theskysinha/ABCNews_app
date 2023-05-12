@@ -1,16 +1,6 @@
-# news_app
+# MyNews_app
+This is a news app I designed using Flutter using https://newsapi.org/ API. Here are a few screenshots:
 
-A new Flutter project.
+<img width="177" alt="image" src="https://github.com/theskysinha/ABCNews_app/assets/66449020/6866a924-65d3-4373-ba64-4154159b601b">
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="178" alt="image" src="https://github.com/theskysinha/ABCNews_app/assets/66449020/6920c999-7ca0-45a9-a8ab-ccb5d8c7cef9">
